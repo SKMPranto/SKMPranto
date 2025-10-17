@@ -33,9 +33,10 @@ https://github.com/SKMPranto?tab=repositories](https://github.com/SKMPranto?tab=
 
 - 📧 **Email:** [prantokumar3463@gmail.com](mailto:prantokumar3463@gmail.com)  
 - 📞 **Contact:** [+8801717-843463](tel:+8801717-843463)
+- 🌍 **Location:** Dhaka,Bangladesh 
 
 
-<h2 align="left">💻 Connect with me:</h2>
+<h2 align="left">🌐 Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/pranto-kumar-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranto-kumar-" height="30" width="40" /></a>
 <a href="https://fb.com/skpranto.skpranto.71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="skpranto.skpranto.71" height="30" width="40" /></a>
