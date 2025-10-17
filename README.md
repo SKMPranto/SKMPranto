@@ -7,7 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SKMPranto?tab=repositories](https://github.com/SKMPranto?tab=repositories)
 
-- 📫 How to reach me **prantokumar3463@gmail.com**
+## 📫 How to Reach Me
+
+- 📧 **Email:** [prantokumar3463@gmail.com](mailto:prantokumar3463@gmail.com)  
+- 📞 **Contact:** [+8801717-843463](tel:+8801717-843463)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
