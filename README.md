@@ -9,19 +9,20 @@
 <h3 align="left">🧑‍💻 About Me</h3>
 
 <p align="left">
-  Hi, I'm <b>Shovan Kumar Mandol Pranto</b> — a <b>MERN Stack Developer</b> from <b>Bangladesh</b> 🇧🇩.<br>
-  I'm passionate about building modern, user-friendly, and scalable web applications that make an impact.<br><br>
+  Hi, I'm <b>Shovan Kumar Mandol Pranto</b> — a <b>Frontend Developer</b> from <b>Bangladesh</b> 🇧🇩.<br>
+  I'm passionate about building modern, user-friendly, and scalable web interfaces that make an impact.<br><br>
 
   💡 <b>What I Do</b><br>
-  • Develop full-stack web apps using <b>MongoDB, Express.js, React.js, Node.js</b><br>
-  • Create responsive UI designs with <b>Tailwind CSS</b> and <b>Material UI</b><br>
-  • Build and integrate RESTful APIs<br>
-  • Focus on performance, accessibility, and clean code<br><br>
+  • Develop interactive and responsive web apps using <b>React.js</b><br>
+  • Create modern UI designs with <b>Tailwind CSS</b> and <b>Material UI</b><br>
+  • Integrate APIs and optimize performance<br>
+  • Focus on accessibility, clean code, and great user experience<br><br>
 
-  🚀 <b>Goals:</b> Becoming a professional developer contributing to open-source and innovative projects.<br>
+  🚀 <b>Goals:</b> Becoming a professional front-end developer contributing to open-source and innovative projects.<br>
   📚 <b>Currently Learning:</b> Advanced React, TypeScript & Next.js<br>
-  🤝 <b>Open to Collaborate On:</b> Web development & open-source projects
+  🤝 <b>Open to Collaborate On:</b> Frontend development & open-source projects
 </p>
+
 
 
 
