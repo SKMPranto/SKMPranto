@@ -28,7 +28,7 @@
 
 
 <h2>👨‍💻 All of my projects are available at</h2>
-https://github.com/SKMPranto?tab=repositories](https://github.com/SKMPranto?tab=repositories)
+https://github.com/SKMPranto?tab=repositories
 
 <h2>📫 How to Reach Me</h2>
 
