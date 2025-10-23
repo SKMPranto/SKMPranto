@@ -1,4 +1,4 @@
-![logo](https://github.com/SKMPranto/SKMPranto/blob/main/LinkedIn_Banner.png)
+![logo](https://github.com/SKMPranto/SKMPranto/blob/main/Profational_Banner.png)
 <h1 align="center">Hi 👋, I'm Shovan Kumar Mandol Pranto</h1>
 <h3 align="center">A passionate Front End developer from Bangladesh</h3>
 <img align="right" alt="conding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
@@ -9,19 +9,20 @@
 <h3 align="left">🧑‍💻 About Me</h3>
 
 <p align="left">
-  Hi, I'm <b>Shovan Kumar Mandol Pranto</b> — a <b>Frontend Developer</b> from <b>Bangladesh</b> 🇧🇩.<br>
-  I'm passionate about building modern, user-friendly, and scalable web interfaces that make an impact.<br><br>
+  Hi, I'm <b>Shovan Kumar Mandol Pranto</b> — a <b>MERN Stack Developer</b> from <b>Bangladesh</b> 🇧🇩.<br>
+  I'm passionate about building modern, user-friendly, and scalable web applications that make an impact.<br><br>
 
   💡 <b>What I Do</b><br>
-  • Develop interactive and responsive web apps using <b>React.js</b><br>
-  • Create modern UI designs with <b>Tailwind CSS</b> and <b>Material UI | daisy UI</b><br>
-  • Integrate APIs and optimize performance<br>
-  • Focus on accessibility, clean code, and great user experience<br><br>
+  • Develop full-stack web apps using <b>MongoDB, Express.js, React.js, Node.js</b><br>
+  • Create responsive UI designs with <b>Tailwind CSS</b>, <b>DaisyUI</b>, and <b>Material UI</b><br>
+  • Build and integrate RESTful APIs<br>
+  • Focus on performance, accessibility, and clean code<br><br>
 
-  🚀 <b>Goals:</b> Becoming a professional front-end developer contributing to open-source and innovative projects.<br>
-  📚 <b>Currently Learning:</b> Advanced React, node.js and express.js<br>
-  🤝 <b>Open to Collaborate On:</b> Frontend development & open-source projects
+  🚀 <b>Goals:</b> Becoming a professional developer contributing to open-source and innovative projects.<br>
+  📚 <b>Currently Learning:</b> Advanced React, TypeScript & Next.js<br>
+  🤝 <b>Open to Collaborate On:</b> Web development & open-source projects
 </p>
+
 
 
 
