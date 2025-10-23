@@ -14,12 +14,12 @@
 
   💡 <b>What I Do</b><br>
   • Develop interactive and responsive web apps using <b>React.js</b><br>
-  • Create modern UI designs with <b>Tailwind CSS</b> and <b>Material UI</b><br>
+  • Create modern UI designs with <b>Tailwind CSS</b> and <b>Material UI | daisy UI</b><br>
   • Integrate APIs and optimize performance<br>
   • Focus on accessibility, clean code, and great user experience<br><br>
 
   🚀 <b>Goals:</b> Becoming a professional front-end developer contributing to open-source and innovative projects.<br>
-  📚 <b>Currently Learning:</b> Advanced React, TypeScript & Next.js<br>
+  📚 <b>Currently Learning:</b> Advanced React, node.js and express.js<br>
   🤝 <b>Open to Collaborate On:</b> Frontend development & open-source projects
 </p>
 
